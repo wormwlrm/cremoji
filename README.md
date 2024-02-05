@@ -38,7 +38,7 @@
 
 ## 참고
 
-> - [우리, 이모지로 코드 리뷰 할까요?](https://wormwlrm.github.io/2024/01/28/Code-Review-with-Emoji.html)
+> - [우리, 이모지로 코드 리뷰 할까요?](https://wormwlrm.github.io/2024/02/04/Code-Review-with-Emoji.html)
 > - [How We Do Code Review](https://devblogs.microsoft.com/appcenter/how-the-visual-studio-mobile-center-team-does-code-review/)
 > - [Code Review Emoji Guide](https://github.com/axolo-co/developer-resources/tree/main/code-review-emoji-guide)
 > - [Emoji Code Review Comments](https://gist.github.com/chrisriesgo/818fe94b4f4720eaf7898ccaa48f94c5)
